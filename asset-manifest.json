@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alok2101.github.io/csb-qwwsz9/static/css/main.70e34a15.chunk.css",
+    "main.js": "https://alok2101.github.io/csb-qwwsz9/static/js/main.f912c54a.chunk.js",
+    "main.js.map": "https://alok2101.github.io/csb-qwwsz9/static/js/main.f912c54a.chunk.js.map",
+    "runtime-main.js": "https://alok2101.github.io/csb-qwwsz9/static/js/runtime-main.86078b54.js",
+    "runtime-main.js.map": "https://alok2101.github.io/csb-qwwsz9/static/js/runtime-main.86078b54.js.map",
+    "static/js/2.bddb6ffe.chunk.js": "https://alok2101.github.io/csb-qwwsz9/static/js/2.bddb6ffe.chunk.js",
+    "static/js/2.bddb6ffe.chunk.js.map": "https://alok2101.github.io/csb-qwwsz9/static/js/2.bddb6ffe.chunk.js.map",
+    "index.html": "https://alok2101.github.io/csb-qwwsz9/index.html",
+    "static/css/main.70e34a15.chunk.css.map": "https://alok2101.github.io/csb-qwwsz9/static/css/main.70e34a15.chunk.css.map",
+    "static/js/2.bddb6ffe.chunk.js.LICENSE.txt": "https://alok2101.github.io/csb-qwwsz9/static/js/2.bddb6ffe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86078b54.js",
+    "static/js/2.bddb6ffe.chunk.js",
+    "static/css/main.70e34a15.chunk.css",
+    "static/js/main.f912c54a.chunk.js"
+  ]
+}
